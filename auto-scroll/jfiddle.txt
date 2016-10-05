@@ -1,0 +1,5 @@
+JFiddle:
+http://jsfiddle.net/nil4you/f7e3d440/11/
+
+Stackoverflow:
+http://stackoverflow.com/questions/29714096/jquery-auto-scroll-a-div-up-down
